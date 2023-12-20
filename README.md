@@ -1,6 +1,6 @@
 # data_visualization-challenge
 
-Note:  This is a second submission of this project:  
+Note:  This is a second submission of this project:  I have included an analysis statement and uploaded the csv files although it was not stated in the instructions that I saw.
 
 **Analysis:
 
